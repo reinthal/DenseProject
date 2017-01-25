@@ -69,7 +69,3 @@ To write the solution to a file run:
 
     CPLEX> write <file> sol
 
-## TODO:
-
-* implement greedy and bruteforce algorithm to compare results
-* write a script which takes graphs files and give a solution directly, with the help of cplex libraries.
